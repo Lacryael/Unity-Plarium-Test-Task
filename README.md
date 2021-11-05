@@ -11,3 +11,5 @@
 3. Скрипт UI и состояний - Assets/Scripts/Controllers/UiController.cs
 Прикриплен к объекту - UiScript
 Остальные скрипты с FSM в папке Assets/Scripts/FSM
+
+Ссылка для скачивания - https://disk.yandex.ru/d/ip7pW-l2w-G1nw
