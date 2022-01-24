@@ -12,4 +12,4 @@
 Прикриплен к объекту - UiScript
 Остальные скрипты с FSM в папке Assets/Scripts/FSM
 
-Ссылка для скачивания - https://disk.yandex.ru/d/ip7pW-l2w-G1nw
+Ссылка для скачивания сборки - https://disk.yandex.ru/d/ip7pW-l2w-G1nw
